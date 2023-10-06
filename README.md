@@ -1,4 +1,4 @@
-# saeg
+# SAEG
 Projeto Sistema de Avaliação Embu-Guaçu
 
 # Projeto desenvolvido para o Hack for Change 2023
